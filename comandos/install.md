@@ -1,3 +1,5 @@
+# Instalacion de Git.
+
 ## Instalación Windows:
 ```
 	winget install --id Git.Git (opcional)
@@ -14,7 +16,7 @@ Equivalente de winget install pero para Ubuntu, sirve para instalar git en Linux
 
 ---
 
-## Comandos de git
+## Comandos de git.
 ```
 	git --version
 ```
