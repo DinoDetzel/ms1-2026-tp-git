@@ -22,13 +22,27 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 
 ### Repositorios.
 
+- [git init](./comandos/git-init.md)
+
 ### Seguimientos de cambios.
+
+- [git add](./comandos/git-add.md)
+- [git rm](./comandos/git-rm.md)
 
 ### Historial.
 
+- [git status](./comandos/git-status.md)
+
 ### Ramas.
 
+- [git branch](./comandos/git-branch.md)
+- [git checkout](./comandos/git-checkout.md)
+- [git switch](./comandos/git-switch.md)
+
 ### Integracion de cambios.
+
+- [git commit](./comandos/git-commit.md)
+- [git merge](./comandos/git-merge.md)
 
 ### Repositorios remotos.
 
