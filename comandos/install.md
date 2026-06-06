@@ -12,7 +12,7 @@ Usa winget, herramienta de la linea de comandos de microsoft para instalar, actu
 ```
 	sudo apt install git
 ```
-Equivalente de winget install pero para Ubuntu, sirve para instalar git en Linux desde la terminal.
+*Equivalente de winget install pero para Ubuntu, sirve para instalar git en Linux desde la terminal.
 
 ---
 
