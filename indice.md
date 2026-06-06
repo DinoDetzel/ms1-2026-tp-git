@@ -13,7 +13,12 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 - [sudo apt install git](./comandos/install.md)
 - [git --version](./comandos/install.md)
 
-### Configuracion.
+### Configuracion de usuario.
+
+- [git config --global user.name "nombre"](./comandos/git-config.md)
+- [git config --global user.email "nombre@gmail.com"](./comandos/git-config.md)
+- [git config --global init.defaultBranch main](./comandos/git-config.md)
+- [git config --global --list](./comandos/git-config.md)
 
 ### Repositorios.
 
