@@ -27,10 +27,10 @@ git diff <hash de un commit> HEAD~1
 Compara un commit especifico con un commit antes del HEAD (actualidad del repositorio).
 
 ```
-
+git diff rama-origen..rama-destino
 
 ```
-
+Compara el HEAD de distintas ramas. 
 
 ```
 
