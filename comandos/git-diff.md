@@ -39,8 +39,10 @@ git diff rama-origen..rama-destino –stat
 No dice los cambios específicos, sino que dice que archivos fueron modificados y cuantas líneas de agregaron o se quitaron.
 
 ```
+git diff <hash de un commit> HEAD~1 –word-diff
 
 ```
+Muestra el cambio especifico palabra a palabra, en vez de oración a oración, es muy útil cuando hay cambios específicos.
 
 ```
 
