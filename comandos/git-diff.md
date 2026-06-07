@@ -33,6 +33,16 @@ git diff rama-origen..rama-destino
 Compara el HEAD de distintas ramas. 
 
 ```
+git diff rama-origen..rama-destino –stat
+
+```
+No dice los cambios específicos, sino que dice que archivos fueron modificados y cuantas líneas de agregaron o se quitaron.
+
+```
+
+```
+
+```
 
 
 
