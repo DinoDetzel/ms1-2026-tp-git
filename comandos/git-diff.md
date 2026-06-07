@@ -8,4 +8,13 @@
 
 Sirve para comparar distintos commits.
 
+```
+git diff <hash de un commit> HEAD
+
+```
+Compara un commit especifico con el ahora del repositorio.
+
+
+
+
 ---
