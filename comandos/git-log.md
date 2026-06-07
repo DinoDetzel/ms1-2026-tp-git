@@ -1,4 +1,4 @@
-# Historial de commits de un repositorio.
+# Historial de commits de las ramas.
 
 ## `git log`
 
