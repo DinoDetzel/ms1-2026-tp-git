@@ -21,10 +21,10 @@ git diff <hash de un commit>
 Compara un commit especifico con el ahora del repositorio.
 
 ```
-
+git diff <hash de un commit> HEAD~1
 
 ```
-
+Compara un commit especifico con un commit antes del HEAD (actualidad del repositorio).
 
 ```
 
