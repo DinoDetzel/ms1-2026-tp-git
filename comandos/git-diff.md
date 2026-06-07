@@ -44,9 +44,5 @@ git diff <hash de un commit> HEAD~1 –word-diff
 ```
 Muestra el cambio especifico palabra a palabra, en vez de oración a oración, es muy útil cuando hay cambios específicos.
 
-```
-
-
-
 
 ---
