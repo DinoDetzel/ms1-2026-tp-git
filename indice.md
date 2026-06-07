@@ -13,7 +13,7 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 - [sudo apt install git](./comandos/install.md)
 - [git --version](./comandos/install.md)
 
-### Configuracion de usuario.
+### Configuracion inicial.
 
 - [git config --global user.name "nombre"](./comandos/git-config.md)
 - [git config --global user.email "nombre@gmail.com"](./comandos/git-config.md)
@@ -29,9 +29,15 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 - [git add](./comandos/git-add.md)
 - [git rm](./comandos/git-rm.md)
 
-### Historial.
+### Confirmación de cambios.
+
+- [git commit](./comandos/git-commit.md)
+
+### Consulta e historial.
 
 - [git status](./comandos/git-status.md)
+- [git log](./comandos/git-log.md)
+- [git reflog](./comandos/git-reflog.md)
 
 ### Ramas.
 
@@ -41,12 +47,11 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 
 ### Integracion de cambios.
 
-- [git commit](./comandos/git-commit.md)
 - [git merge](./comandos/git-merge.md)
 
 ### Repositorios remotos.
 
-### Recuperacion.
+### Recuperacion y deshacer cambios.
 
 ### Información adicional
 
