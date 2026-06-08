@@ -13,3 +13,9 @@ También funciona para crear una rama y moverse a ella con "git checkout -b <nom
 ---
 
 Es un comando mas complejo puesto a que hace muchas mas cosas, incluso cosas destructivas. Como punto a favor, funciona en todas las versiones de git. Además, al cambiar de rama, uno se lleva los cambios no agregados a la rama a la que uno cambio.
+
+```
+    git checkout HEAD~
+```
+
+Este comando se utiliza para cuando el usuario quiere volver commits atrás, osea que ya realizo. El head es un puntero para ver donde estas parado actualmente y ~ esta tildacion te indica ir para atrás en la historia del commits
