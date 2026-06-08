@@ -19,3 +19,9 @@ Es un comando mas complejo puesto a que hace muchas mas cosas, incluso cosas des
 ```
 
 Este comando se utiliza para cuando el usuario quiere volver commits atrás, osea que ya realizo. El head es un puntero para ver donde estas parado actualmente y ~ esta tildacion te indica ir para atrás en la historia del commits
+
+```
+    git checkout --
+```
+
+Este comando se utliza para voler a la ultima rama que estuviste o te dice en que rama estas parado actualmente
