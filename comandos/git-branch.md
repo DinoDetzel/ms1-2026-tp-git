@@ -1,14 +1,18 @@
-## Manejo de ramas
+# Manejo de ramas
 
 ```
     git branch
 ```
 Mostrara todas las ramas y en la que estamos parados.
 
+---
+
 ```
     git branch <nombre_rama>
 ```
 Si agregamos un nombre al comando "git branch <nombre_rama>" creara la rama y nos mantendra en la rama en la que estabamos anteriormente.
+
+---
 
 ```
     git branch -d <nombre_rama>
