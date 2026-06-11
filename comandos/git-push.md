@@ -1,4 +1,4 @@
-## Subir cambios a repositorio remoto
+# Subir cambios a repositorio remoto
 
 ```
     git push

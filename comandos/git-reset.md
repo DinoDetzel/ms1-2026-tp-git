@@ -6,6 +6,8 @@
 
 Este comando se utiliza para deshacer los últimos commits sin perder tu trabajo, especificando el numero de commits a deshacer a la derecha de "HEAD~", como se ve en el ejemplo. Es decir, los cambios realizados quedan guardados, se borra el registro del commit en el historial, y mantiene todos tus cambios guardados para modificarlo o volverlo a empaquetar.
 
+---
+
 ```
     git reset --hard HEAD~1
 ```

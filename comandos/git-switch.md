@@ -5,6 +5,8 @@
 ```
 Alternativa moderna y mas segura que checkout. De la misma manera que con checkout "git switch <nombre_rama>" nos ubicara en la rama elegida. 
 
+---
+
 ```
     git switch -c <nombre_rama>
 ```

@@ -6,10 +6,10 @@
 	git log
 ```
 Muestra el historial de commits de un repositorio. `git log` muestra para cada commit:
-    - Hash del commit (identificador unico).
-    - Autor del commit.
-    - Fecha y hora en que se realizo.
-    - Mensaje del commit.
+- Hash del commit (identificador unico).
+- Autor del commit.
+- Fecha y hora en que se realizo.
+- Mensaje del commit.
 
 ---
 
@@ -34,8 +34,8 @@ Documentacion oficial (manual) de `git log` con ejemplos.
     git log --oneline
 ```
 El parametro `--oneline` muestra el historial de forma resumida, cada commit en una sola linea. Para cada commit muestra:
-    - Hash abreviado.
-    - El mensaje del commit.
+- Hash abreviado.
+- El mensaje del commit.
 
 ---
 
@@ -105,8 +105,6 @@ El parametro `--remotes` muestra el historial de commits que son alcanzables des
     git log --numstat
 ```
 El parametro `--numstat` muestra el historial de commits junto con estadísticas numéricas de los cambios realizados en cada archivo. Ademas de la informacion habitual, muestra:
-    - Cantidad de líneas agregadas.
-    - Cantidad de líneas eliminadas.
-    - Nombre del archivo modificado.
-
----
+- Cantidad de líneas agregadas.
+- Cantidad de líneas eliminadas.
+- Nombre del archivo modificado.

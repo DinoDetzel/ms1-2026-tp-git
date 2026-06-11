@@ -1,4 +1,4 @@
-## Actualizar rama local
+# Actualizar rama local
 
 ```
     git pull
