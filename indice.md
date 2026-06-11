@@ -15,17 +15,16 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 
 ### Configuracion inicial.
 
-- [git config --global user.name "nombre"](./comandos/git-config.md)
-- [git config --global user.email "nombre@gmail.com"](./comandos/git-config.md)
-- [git config --global init.defaultBranch main](./comandos/git-config.md)
-- [git config --global --list](./comandos/git-config.md)
+- [git config](./comandos/git-config.md)
 
-### Repositorios.
+### Creacion y obtencion de repositorios.
 
 - [git init](./comandos/git-init.md)
+- [git clone]()
 
 ### Seguimientos de cambios.
 
+- [git status](./comandos/git-status.md)
 - [git add](./comandos/git-add.md)
 - [git rm](./comandos/git-rm.md)
 
@@ -35,11 +34,11 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 
 ### Consulta e historial.
 
-- [git status](./comandos/git-status.md)
 - [git log](./comandos/git-log.md)
-- [git reflog](./comandos/git-reflog.md)
+- [git show](./comandos/git-show.md)
+- [git diff](./comandos/git-diff.md)
 
-### Ramas.
+### Trabajo con ramas.
 
 - [git branch](./comandos/git-branch.md)
 - [git checkout](./comandos/git-checkout.md)
@@ -48,10 +47,19 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 ### Integracion de cambios.
 
 - [git merge](./comandos/git-merge.md)
+- [git rebase](./comandos/git-rebase.md)
 
 ### Repositorios remotos.
 
+- [git remote](./comandos/git-remote.md)
+- [git pull]()
+- [git push](./comandos/git-push.md)
+
 ### Recuperacion y deshacer cambios.
+
+- [git reset](./comandos/git-reset.md)
+- [git revert]()
+- [git reflog](./comandos/git-reflog.md)
 
 ### Información adicional
 
