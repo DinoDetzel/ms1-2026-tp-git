@@ -1,4 +1,4 @@
-## Creación del repositorio local
+# Creación del repositorio local
 
 ```
     git init

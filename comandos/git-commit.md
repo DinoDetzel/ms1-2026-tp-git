@@ -1,4 +1,4 @@
-## Confirmación y guardado de cambios
+# Confirmación y guardado de cambios
 
 ```
     git commit
@@ -6,10 +6,14 @@
 Guarda de forma permanente todos los cambios realizados en el repositorio local. Del staging area, al local repository. Contiene cambios de los archivos, autor, fecha, mensaje y referencia al commit anterior. Al ejecutarlo nos indica la rama en la que hicimos el commit, el hash del commit (que lo identifica univocamente), su mensaje, la cantidad de archivos y la cantidad de lineas de texto insertadas.
 Si se realiza un commit sin agregar un mensaje, git pedira que agreguemos un mensaje y nos indicara que un mensaje vacio abortara el commit.
 
+---
+
 ```
     git commit -m "mensaje"
 ```
 Es importante y obligatorio utilizarlo agregando un mensaje para claridad y orden "git commit -m "mensaje"".
+
+---
 
 ```
     git commit -am "mensaje"

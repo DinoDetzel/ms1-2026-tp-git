@@ -21,5 +21,3 @@ Usa winget, herramienta de la linea de comandos de microsoft para instalar, actu
 	git --version
 ```
 Sirve para verificar la instalacion de git, muestra la version de git que instalamos
-
----
