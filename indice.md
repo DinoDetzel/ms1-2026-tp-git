@@ -19,8 +19,8 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 
 ### Creacion y obtencion de repositorios.
 
+- [git clone](./comandos/git-clone.md)
 - [git init](./comandos/git-init.md)
-- [git clone]()
 
 ### Seguimientos de cambios.
 
@@ -52,13 +52,13 @@ utilizados durante la cursada de Metodología de Sistemas I y algunos agregados 
 ### Repositorios remotos.
 
 - [git remote](./comandos/git-remote.md)
-- [git pull]()
+- [git pull](./comandos/git-pull.md)
 - [git push](./comandos/git-push.md)
 
 ### Recuperacion y deshacer cambios.
 
 - [git reset](./comandos/git-reset.md)
-- [git revert]()
+- [git revert](./comandos/git-revert.md)
 - [git reflog](./comandos/git-reflog.md)
 
 ### Información adicional
